@@ -13,7 +13,7 @@ loading = '<:loading:747680523459231834>'
 TOKEN = ('NzEyODc5NDkxNTY3MDU5MDI4.XsX-ww.RGE9OhwKPJ9px7l9Jj4lgLQetNA')
 loading = '<:loading:747680523459231834>'
 
-TOKEN = ('NzUwMDI1NTAyNjk3MzI0NjEw.X00hrg.bAvlHDU-QgMt2MhLHl0G9DDn8K4')
+TOKEN = ('NzUyMDEyMTI4NDM2NzQ4Mjk4.X1Rb3w.Q3E7fdAPUQuTAiEBl42GHa89BbA')
 activity = discord.Game(name="Smirf Deployed Me")
 
 
