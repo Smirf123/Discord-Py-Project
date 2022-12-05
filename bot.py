@@ -10,11 +10,12 @@ conn = sqlite3.connect('servers.db')
 c = conn.cursor()
 loading = '<:loading:747680523459231834>'
 
-TOKEN = ('NzEyODc5NDkxNTY3MDU5MDI4.XsX-ww.RGE9OhwKPJ9px7l9Jj4lgLQetNA')
+TOKEN = ('ODU0NDkyNDQ1NjkyNzg4NzQ3.GY6wvx.Kq0IyKW6u_WypS0x2LmsJh4XcBfbU6XghMOq9Y')
 loading = '<:loading:747680523459231834>'
 
 TOKEN = ('ODU4NTQ4MDc0ODIxMTg5NjMz.YNfvNA.0bNKqXbm4RGv49u2USdJHkq5wsw')
 activity = discord.Game(name="Smirf Deployed Me")
+
 
 
 client = discord.Client()
